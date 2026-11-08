@@ -1,0 +1,13 @@
+{
+  "name": "ilian-mods",
+  "owner": {
+    "name": "Ilian"
+  },
+  "plugins": [
+    {
+      "name": "usage-grid",
+      "source": "./"
+    }
+  ],
+  "description": "Mon Claude : grille d'activité, tokens et limite de la semaine dans l'app Claude"
+}

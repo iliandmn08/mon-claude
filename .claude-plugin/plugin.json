@@ -1,0 +1,7 @@
+{
+  "name": "usage-grid",
+  "version": "0.1.0",
+  "description": "Panneau : grille d'activité Claude façon GitHub + jauge de la limite hebdo",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
